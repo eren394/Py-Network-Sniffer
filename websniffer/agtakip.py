@@ -31,4 +31,4 @@ def dns_callback(packet):
         except:
             pass
 
-sniff(filter="udp port 53", prn=dns_callback, store=0)
+sniff(filter="udp port 53", prn=dns_callback, store=0, promisc=True)
