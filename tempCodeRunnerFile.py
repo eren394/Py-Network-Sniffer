@@ -1,0 +1,1 @@
+Veri Akisi Dinleniyor... (Durdurmak için Ctrl+C)
