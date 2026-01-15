@@ -1,4 +1,4 @@
-# Matrix Network Sniffer
+# Network Sniffer
 
 Python tabanlı, düşük seviyeli ağ paketlerini analiz eden ve gerçek zamanlı olarak ziyaret edilen web adreslerini (DNS) ayıklayan bir terminal aracıdır.
 
